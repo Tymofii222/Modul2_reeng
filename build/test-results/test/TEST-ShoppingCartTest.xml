@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ShoppingCartTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-30T17:59:06" hostname="DESKTOP-F3OU4BV" time="0.068">
+<testsuite name="ShoppingCartTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-30T18:04:04" hostname="DESKTOP-F3OU4BV" time="0.066">
   <properties/>
-  <testcase name="appendFormatted()" classname="ShoppingCartTest" time="0.044"/>
+  <testcase name="appendFormatted()" classname="ShoppingCartTest" time="0.045"/>
   <testcase name="calculateDiscount()" classname="ShoppingCartTest" time="0.003"/>
-  <testcase name="formatTicket()" classname="ShoppingCartTest" time="0.017"/>
+  <testcase name="formatTicket()" classname="ShoppingCartTest" time="0.014"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
