@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShoppingCartTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-30T17:51:40" hostname="DESKTOP-F3OU4BV" time="0.059">
+  <properties/>
+  <testcase name="appendFormatted()" classname="ShoppingCartTest" time="0.044"/>
+  <testcase name="calculateDiscount()" classname="ShoppingCartTest" time="0.004"/>
+  <testcase name="formatTicket()" classname="ShoppingCartTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
